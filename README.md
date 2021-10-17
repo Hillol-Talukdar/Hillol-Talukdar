@@ -2,7 +2,7 @@
 
 ## Hillol Talukdar
 
-Junior Software Engineer. I create projects by experimenting various software technology. I have a huge passion for Software Development and Software Testing. I am also a Competitive Programmer.
+Junior Software Engineer. I create projects by experimenting various software technology. I have a huge passion for Software Development. I am also a Competitive Programmer.
 
 ## &#x1f4c8; GitHub Stats
 
