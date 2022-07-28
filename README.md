@@ -10,7 +10,7 @@ Software Engineer. I create projects by experimenting various software technolog
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hillol-Talukdar&layout=compact&theme=dark" />
 </a>
 <a href="https://github.com/Hillol-Talukdar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hillol-Talukdar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hillol Talukdar's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hillol-Talukdar&theme=dark" alt="Hillol Talukdar's GitHub Stats" />
 </a>
 
 Find me on [LinkedIn](https://www.linkedin.com/in/hillol-talukdar-a175a51a3/)
